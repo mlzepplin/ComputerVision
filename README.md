@@ -4,9 +4,9 @@ Programs in matlab for specific computer vision problems
 
 as1q1.m - compute homographies and removing planar perspective distortion from any image
 input image
-![alt text](outputImages/wall.jpg =250x250 "input for homography")
+![alt text](outputImages/wall.jpg "input for homography")
 output image
-![alt text](outputImages/wallOutput.png =250x250 "planar perspective distortion removed")
+![alt text](outputImages/wallOutput.png "planar perspective distortion removed")
 
 as1q2.m - compute height ratios of objects (uses vanishing points and vanishing lines)
 
