@@ -1,5 +1,5 @@
 clear
-imageFile = '\\Client\C$\Users\rishabh\Desktop\marston.jpeg';
+imageFile = '\\Client\C$\Users\rishabh\Desktop\wall.jpg';
 img = imread(imageFile);
 imgGray = double(rgb2gray(img));
 figure('Name','Input image');imagesc(imgGray);
